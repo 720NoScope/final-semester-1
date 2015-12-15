@@ -1,0 +1,15 @@
+* {
+    background-color:black;
+    color:red;
+    margin:2px;
+}
+h1 {
+    background-color:black;
+    color:red;
+}
+#pics {
+    width:520px;
+}
+a {
+    text-decoration:none;
+}
